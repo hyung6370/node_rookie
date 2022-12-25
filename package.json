@@ -1,0 +1,19 @@
+{
+  "name": "node_rookie",
+  "version": "1.0.0",
+  "description": "nodeJS 공부공간입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyung6370/node_rookie.git"
+  },
+  "author": "emptyhead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyung6370/node_rookie/issues"
+  },
+  "homepage": "https://github.com/hyung6370/node_rookie#readme"
+}
