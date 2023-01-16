@@ -13,7 +13,7 @@ module.exports = (server) => {
         ws.on('error', (err) => {  // 오류 처리
             console.error(err);
         });
-        ws.ond('close', () => {  // 종료
+        ws.on('close', () => {  // 종료
             console.log('클라이언트 접속 해제', ip);
             clearInterval(ws.interval);
         });
